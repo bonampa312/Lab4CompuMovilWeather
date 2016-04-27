@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">L4G8-Weather</string>
+
+
+    <string-array name="capitales">
+        <item>ARGEL</item>
+        <item>PORTO-NOVO</item>
+        <item>GABERONES</item>
+        <item>UAGADUGÚ</item>
+        <item>MEDELLIN</item>
+        <item>PRAIA</item>
+        <item>YAMENA</item>
+        <item>MORONI</item>
+        <item>BRAZZAVILLE</item>
+        <item>KINSHASA</item>
+        <item>CAIRO</item>
+        <item>CALI</item>
+        <item>BARRANQUILLA</item>
+        <item>BARRANCABERMEJA</item>
+        <item>PINTADA</item>
+        <item>SANTA CRUZ DE LA SIERRA</item>
+        <item>JARDIN</item>
+        <item>ADIS</item>
+        <item>LIBREVILLE</item>
+        <item>CONAKRY</item>
+        <item>BISSAU</item>
+        <item>BARCELONA</item>
+        <item>NAIROBI</item>
+        <item>ANTANANARIVO</item>
+        <item>BAMAKO</item>
+        <item>RABAT</item>
+        <item>RABAT</item>
+        <item>PORT LOUIS</item>
+        <item>NUAKCHOT</item>
+        <item>MAPUTO</item>
+        <item>WINDHOEK</item>
+        <item>NIAMEY</item>
+        <item>ABUYA</item>
+        <item>EL AAIÚN</item>
+        <item>KIGALI</item>
+        <item>SANTO TOMÉ</item>
+        <item>DAKAR</item>
+        <item>VICTORIA</item>
+        <item>FREETOWN</item>
+        <item>MOGADISCIO</item>
+        <item>MBABANE</item>
+        <item>JARTUM</item>
+        <item>LOME</item>
+        <item>TUNEZ</item>
+        <item>KAMPALA</item>
+        <item>YIBUTI</item>
+        <item>HARARE</item>
+        <item>CANBERRA</item>
+        <item>ARSHALL MAJURO</item>
+        <item>SIA PALIKIR</item>
+        <item>WELLINGTON</item>
+        <item>MELEKEOK</item>
+        <item>PORT MORESBY</item>
+        <item>HONIARA</item>
+        <item>APIA</item>
+        <item>NUKU ALOFA</item>
+        <item>FUNAFUTI</item>
+        <item>PORT VILA</item>
+        <item>EREVÁN</item>
+        <item>BERLIN</item>
+        <item>ANDORRA</item>
+        <item>VIENA</item>
+        <item>BAKÚ</item>
+        <item>BRUSELAS</item>
+        <item>MINSK</item>
+        <item>SARAJEVO</item>
+        <item>SOFÍA</item>
+        <item>PRAGA</item>
+        <item>ZAGREB</item>
+        <item>COPENHAGUE</item>
+        <item>BRATISLAVA</item>
+        <item>LUBLIJANA</item>
+        <item>MADRID</item>
+        <item>TALLÍN</item>
+        <item>HELSINKI</item>
+        <item>PARÍS</item>
+        <item>TIFLIS</item>
+        <item>ATENAS</item>
+        <item>BUDAPEST</item>
+        <item>DUBLÍN</item>
+        <item>REIKIAVIK</item>
+        <item>ROMA</item>
+        <item>RIGA</item>
+        <item>VADUZ</item>
+        <item>VILNA</item>
+        <item>LUXEMBURGO</item>
+        <item>SKOPJE</item>
+        <item>LA VALETA</item>
+        <item>CHISINAU</item>
+        <item>MÓNACO</item>
+        <item>PODGORICA</item>
+        <item>OSLO</item>
+        <item>AMSTERDAM</item>
+        <item>VARSOVIA</item>
+        <item>LISBOA</item>
+        <item>LONDRES</item>
+        <item>BUCAREST</item>
+        <item>MOSCÚ</item>
+        <item>CIUDAD DE SAN MARINO</item>
+        <item>BELGRADO</item>
+        <item>ESTOCOLMO</item>
+        <item>BERNA</item>
+        <item>KIEV</item>
+        <item>CIUDAD DEL VATICANO</item>
+        <item>BUENOS AIRES</item>
+        <item>NASSAU</item>
+        <item>BRIDGETOWN</item>
+        <item>BELMOPÁN</item>
+        <item>LA PAZ</item>
+        <item>BRASILIA</item>
+        <item>OTTAWA</item>
+        <item>SANTIAGO DE CHILE</item>
+        <item>SAN JOSE</item>
+        <item>LA HABANA</item>
+        <item>ROSEAU</item>
+        <item>SANTO DOMINGO</item>
+        <item>QUITO</item>
+        <item>SAN SALVADOR</item>
+        <item>WASHINGTON D. C.</item>
+        <item>CIUDAD DE GUATEMALA</item>
+        <item>GEORGETOWN</item>
+        <item>PUERTO PRÍNCIPE</item>
+        <item>TEGUCIGALPA</item>
+        <item>KINGSTON</item>
+        <item>MÉXICO D. F.</item>
+        <item>MANAGUA</item>
+        <item>CIUDAD DE PANAMÁ</item>
+        <item>ASUNCIÓN</item>
+        <item>LIMA</item>
+        <item>SAN JUAN</item>
+        <item>BASSETERRE</item>
+        <item>CASTRIES</item>
+        <item>KINGSTOWN</item>
+        <item>PARAMARIBO</item>
+        <item>PUERTO ESPAÑA</item>
+        <item>MONTEVIDEO</item>
+        <item>CARACAS</item>
+        <item>KABUL</item>
+        <item>RIAD</item>
+        <item>MANAMÁ</item>
+        <item>DACA</item>
+        <item>BANDAR SERI BEGAWAN</item>
+        <item>TIMBU</item>
+        <item>PNON PEHN</item>
+        <item>DOHA</item>
+        <item>PEKÍN</item>
+        <item>NICOSIA</item>
+        <item>PYONGYANG</item>
+        <item>SEÚL</item>
+        <item>ABU DABI</item>
+        <item>MANILA</item>
+        <item>NUEVA DELHI</item>
+        <item>YAKARTA</item>
+        <item>TEHERÁN</item>
+        <item>BAGDAD</item>
+        <item>JERUSALÉN</item>
+        <item>TOKIO</item>
+        <item>AMMÁN</item>
+        <item>ASTANÁ</item>
+        <item>BISKEK</item>
+        <item>CIUDAD DE KUWAIT</item>
+        <item>VIENTIÁN</item>
+        <item>BEIRUT</item>
+        <item>KUALA LUMPUR</item>
+        <item>NAYPYIDAW</item>
+        <item>KATMANDÚ</item>
+        <item>MASCATE</item>
+        <item>ISLAMABAD</item>
+        <item>RAMALA</item>
+        <item>SINGAPUR</item>
+        <item>DAMASCO</item>
+        <item>COLOMBO</item>
+        <item>BANGKOK</item>
+        <item>TAIPEH</item>
+        <item>DUSAMBÉ</item>
+        <item>DILI</item>
+        <item>ASJABAD</item>
+        <item>ANKARA</item>
+        <item>TASHKENT</item>
+        <item>HANOI</item>
+        <item>SANÁ</item>
+    </string-array>
+</resources>
